@@ -18,6 +18,43 @@ Create Table vendingai
 
         Insert INTO vendingai (type, brand, cost, quantity) VALUES ('candy','starburst', 2, 10);
 
+        Insert INTO vendingai (type, brand, cost, quantity) VALUES ('chips','nacho', 4, 10);
+
+        Insert INTO vendingai (type, brand, cost, quantity) VALUES ('chips','ranch', 4, 10);
+
+        Insert INTO vendingai (type, brand, cost, quantity) VALUES ('chips','kettle', 4, 10);
+
+        Insert INTO vendingai (type, brand, cost, quantity) VALUES ('chips','original', 4, 10);
+
+        Insert INTO vendingai (type, brand, cost, quantity) VALUES ('drinks','cola', 1, 10);
+
+        Insert INTO vendingai (type, brand, cost, quantity) VALUES ('drinks','lemon', 1, 10);
+
+        Insert INTO vendingai (type, brand, cost, quantity) VALUES ('drinks','diet', 1, 10);
+
+        Insert INTO vendingai (type, brand, cost, quantity) VALUES ('drinks','dew', 1, 10);
+
+        Insert INTO vendingai (type, brand, cost, quantity) VALUES ('drinks','energy', 5, 10);
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
